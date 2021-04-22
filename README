@@ -1,0 +1,9 @@
+这个脚本的功能是将长音频，按textgrid文件里面的时长要求分割成对应短音频。
+linux和Windows通用
+使用方法：
+    1.将wav文件放入wav文件夹下
+    2.将textgrid文件放入text文件夹下
+    3.执行 python3 main.py
+	
+执行完成后，text_output和wav_output会有对应的数据
+
